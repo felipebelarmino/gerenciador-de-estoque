@@ -50,7 +50,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
    Abra o terminal no VS Code e execute:
 
    ```bash
-   git clone https://github.com/seu-usuario/controle-de-estoque-api.git
+   git clone https://github.com/felipebelarmino/gerenciador-de-estoque.git
    cd controle-de-estoque-api
    ```
 
