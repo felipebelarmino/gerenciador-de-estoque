@@ -1,7 +1,7 @@
 # compiled output
 /dist
 /node_modules
-/postgres
+/build
 
 # Logs
 logs
@@ -43,14 +43,14 @@ lerna-debug.log*
 .env.local
 
 # temp directory
-/temp
+.temp
+.tmp
 
-# build output
-/build
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
 
-# Nest.js compiled migration files
-/migrations/*.js
-/migrations/*.d.ts
-
-# Docker
-docker-compose.override.yml
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
