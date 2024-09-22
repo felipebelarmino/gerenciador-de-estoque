@@ -148,8 +148,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 👤 **Seu Nome**
 
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/felipe-belarmino/)
-- GitHub: [@seu-usuario](https://github.com/felipebelarmino)
+- LinkedIn: [Felipe Belarmino]](https://www.linkedin.com/in/felipe-belarmino/)
+- GitHub: [felipebelarmino](https://github.com/felipebelarmino)
 - E-mail: epilefgomes1@gmail.com
 
 ✨ Feito com dedicação e código limpo!
